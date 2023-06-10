@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chowiku
 - 👀 I’m interested in ... machine learning, block chain, 3d art
 - 🌱 I’m currently learning ... Solidity 
-- 💞️ I’m looking for a mentor
+- 💞️ I’m looking to collaborate on.. Smart contracts in Solidity
 - 📫 How to reach me ... Discord: Alv#3394
 
 <!---
